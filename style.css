@@ -1,0 +1,24 @@
+.instagram {
+    width: 60px; 
+    height: 60px;
+}
+.visit {
+    background: green;
+    color: white;
+}
+.navbar-brand {
+    margin-left: 10px;
+}
+.cajados{
+    margin-top: 60px;
+}
+.cajados row {
+    margin-left: 50px;
+}
+.cajados img {
+  width: 310px;
+  height: 290px;
+}
+.fila2 {
+  margin-top: 20px;
+}
